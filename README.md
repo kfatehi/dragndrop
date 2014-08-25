@@ -1,4 +1,4 @@
 dragndrop
 =========
 
-html5 native dragndrop, no libs
+html5 native dragndrop
