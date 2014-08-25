@@ -1,6 +1,6 @@
 {
   "name": "dragndrop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "html5 dragndrop",
   "main": "index.js",
   "scripts": {
