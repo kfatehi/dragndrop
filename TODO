@@ -1,0 +1,3 @@
+* make it not throw errors if you don't have methods defined in dropzone
+* test with jsdom
+* remove jquery dependency
